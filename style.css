@@ -1,0 +1,143 @@
+body {
+    background-image: url("File Pendukung/Rainbow-Gradient-Pink-and-Purple-Zoom-Virtual-Background.png")
+}
+
+
+h1 {
+    text-align: center;
+}
+body {
+    font-family: 'Terminator'; font-size: 14px;
+}
+.txtindex {
+    text-align: justify;
+}
+#logo 
+{
+    font-family: "Terminator"; color: rgb(184, 25, 184); text-shadow: 1px 1px 1px #000;
+    font-size: 80px;
+}
+
+#formnama
+{
+    background-color: yellow;
+}
+table{
+    border-collapse: collapse;
+    border-color:rgb(27, 238, 253);
+    border: 1px;
+}
+th{
+    background-color: pink;
+    padding: 5px;
+}
+td{
+    text-align: center;
+    padding: 10px;
+}
+.servis1 {
+    background-color: #ced2d9;
+}
+
+.table1 {
+    text-align: center;
+    font-size: 20px;
+}
+
+button {
+    color: deeppink;
+    background-color: pink;
+    padding: 5px;
+    margin: 10px auto;
+    border-radius: 50px;
+    border-color: rgb(255, 0, 136);
+    font-size: 20px;
+}
+ul#nav {
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+ul#nav li {
+    list-style: none;
+    display: inline-block;
+    margin-right: 20px;
+    
+}
+ul#nav li a {
+    text-decoration: none;
+    padding: 1px 0;
+    color: deeppink;
+    font-weight: bold;
+}
+ul#nav li a:hover {
+    color: tomato;
+    border-bottom: 3px solid tomato;
+}
+
+.kontak {
+    text-align: left;
+}
+
+h3 {
+    text-align: center;
+}
+.imgproses{
+    margin-left: auto; margin-right: auto; display: block;  width: 100px;height: 100px;border-radius: 50%;
+}
+
+.proses {
+    background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 77%);
+}
+
+.gambar{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 55px;
+    margin-right: 55px;
+}
+
+.gambar p{
+    padding-top: 70px;
+    font-size: 45px;
+    text-align: center;
+    font-family: 'Lucida Console';
+}
+
+.aboutus{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Lucida Console';
+}
+
+.hargajasogas{
+    font-size: 20px;
+    font-family: 'Lucida Console';
+}
+
+.kelebihan{
+    font-size: 20px;
+}
+
+.servis1{
+    font-size: 20px;
+    background: rgba(233, 11, 233, 0.171);
+}
+
+.hargakelas{
+    font-size: 20px;
+}
+
+.isiform{
+    font-size: 20px
+}
+
+.instagram img{
+    width: 250px;
+}
+
+.instagram{
+    text-align: center;
+}
